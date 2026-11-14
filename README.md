@@ -19,4 +19,8 @@ A hands-on Microsoft 365 Business Premium lab built to practice day-to-day ident
 .\Remove-M365User.ps1 -UserPrincipalName "charlie@://onmicrosoft.com"
 ```
 
-<img width="1893" height="910" alt="image" src="https://github.com/user-attachments/assets/fdc7c166-ccfc-4d0c-802b-9eb8856e0698" />
+## Assigning a license to one of my users:
+<img width="1910" height="908" alt="image" src="https://github.com/user-attachments/assets/71c894cc-3a80-4f0a-89c1-a07d3becbc1c" />
+
+## Created Windows Device Compliance Policy
+<img width="1909" height="914" alt="image" src="https://github.com/user-attachments/assets/8cabc2ab-15da-4801-8b62-4d660f4ae51c" />
