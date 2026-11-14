@@ -22,5 +22,21 @@ A hands-on Microsoft 365 Business Premium lab built to practice day-to-day ident
 ## Assigning a license to one of my users:
 <img width="1910" height="908" alt="image" src="https://github.com/user-attachments/assets/71c894cc-3a80-4f0a-89c1-a07d3becbc1c" />
 
-## Created Windows Device Compliance Policy
+## Creating Windows Device Compliance Policy:
 <img width="1909" height="914" alt="image" src="https://github.com/user-attachments/assets/8cabc2ab-15da-4801-8b62-4d660f4ae51c" />
+
+## Conditional access policies:
+<img width="1409" height="851" alt="image" src="https://github.com/user-attachments/assets/f2063d7a-17fc-4362-a190-1f0a24a4ff74" />
+
+## Creating IT support Shared mailbox:
+<img width="1858" height="865" alt="image" src="https://github.com/user-attachments/assets/c844bd58-a370-4500-b1a3-9aab1be8b76e" />
+
+## Creating new mailbox rule to label mail from external senders
+<img width="1914" height="879" alt="image" src="https://github.com/user-attachments/assets/69e744e5-dc5c-4d37-af3f-270c239b04de" />
+
+## Checking for rule trigger [successful]
+<img width="1908" height="891" alt="image" src="https://github.com/user-attachments/assets/3cdaeb17-6e38-48a6-9a50-c36f40c0b01d" />
+<img width="1573" height="317" alt="image" src="https://github.com/user-attachments/assets/a70ccbf9-8cc4-4aa9-9e1a-daf0a1ea552d" />
+
+
+
