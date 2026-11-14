@@ -19,3 +19,4 @@ A hands-on Microsoft 365 Business Premium lab built to practice day-to-day ident
 .\Remove-M365User.ps1 -UserPrincipalName "charlie@://onmicrosoft.com"
 ```
 
+<img width="1893" height="910" alt="image" src="https://github.com/user-attachments/assets/fdc7c166-ccfc-4d0c-802b-9eb8856e0698" />
